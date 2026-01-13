@@ -1,104 +1,93 @@
-### 中文版：游戏开发者必备的 AI 工具大合集
+### 中文版：游戏开发者必备的 AI 工具大合集 (2026 更新版)
 
-## 素材生成 🪄
+## 3D 素材与资产生成 🪄📦
 
-➡️ 用于**创建 2D 或 3D 游戏素材**。
+➡️ 用于**创建 3D 模型、角色和场景资产**（此领域进步最快）。
 
-- [Scenario.com](https://www.scenario.com/)：支持训练自定义风格，批量生成符合艺术方向的高质量2D/3D游戏素材，适合快速产出统一风格的角色、场景和道具（需注册，免费/付费）。  
-- [PrometheanAI](https://www.prometheanai.com/?via=topaitools)：通过自然语言描述生成虚拟环境和场景细节，适合中大型游戏环境构建（需注册，免费/付费）。  
-- [Ready Player Me](https://readyplayer.me/)：快速生成并集成跨平台游戏角色，支持多种3D引擎（需注册，免费）。  
-- [Genie](https://lumalabs.ai/genie)：基于文本描述自动生成3D游戏素材，适合快速原型设计（需注册，免费）。  
-- [Rosebud AI](https://play.rosebud.ai/home)：AI辅助生成2D/3D游戏资产及代码，支持智能NPC和动画制作（需注册，免费）。  
-- [Layer](https://layer.ai/)：AI驱动的3D图层生成工具，支持多类型环境图层定制，提升环境设计效率（需注册，免费/付费）。  
-- [Hotpot.ai](https://hotpot.ai/)：多功能AI创意平台，支持游戏资产、图形和文本生成，包含丰富模板，适合快速制作专业级图形（需注册，免费/付费）。  
-
----
-
-## 贴图生成 🖼️🖌️
-
-➡️ 用于**为素材生成贴图**。
-
-- [Charmed Texture Generator](https://charmed.ai/splash/texture-generator)：生成复杂3D对象贴图，支持多种材质类型（需注册，免费）。  
-- [DreamTextures](https://github.com/carson-katri/dream-textures)：开源文本驱动贴图生成工具，适合自定义纹理制作（开源，免费）。  
-- [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)：强大的开源文本到图像模型，支持贴图和背景图生成（开源，免费）。  
+* [Meshy](https://www.meshy.ai/)：**当前推荐**。生成带有高质量贴图和拓扑结构的 3D 模型，支持文本转 3D 和图片转 3D，生成速度快，适合道具和环境资产（需注册，免费/付费）。
+* [Rodin (Deemos)](https://hyperhuman.deemos.com/)：**高精度推荐**。专注于生成高精度的 3D 模型，几何细节极其丰富，适合需要精细建模的场景（需注册，付费）。
+* [Luma Genie / Dream Machine](https://lumalabs.ai/)：从早期的 Genie 进化为更强大的生成套件，支持视频生成和高质量 3D 资产快速原型制作（需注册，免费/付费）。
+* [Scenario.com](https://www.scenario.com/)：保持推荐。支持训练自定义风格（LoRA），批量生成风格统一的 2D/3D 游戏素材，是保持游戏美术风格一致性的利器（需注册，免费/付费）。
+* [PrometheanAI](https://www.prometheanai.com/)：通过自然语言描述填充和构建大型 3D 虚拟环境，能够与 Unreal/Unity 深度集成（需注册，免费/付费）。
+* [Ready Player Me](https://readyplayer.me/)：快速生成并集成跨平台游戏角色（Avatar），支持导入 Unity/Unreal 等多种引擎（需注册，免费）。
 
 ---
 
-## 图片生成 🖼️🪄
+## 贴图与材质生成 🖼️🧱
 
-➡️ 用于创建游戏角色、背景图片等。
+➡️ 用于**为白模生成 PBR 贴图或纹理**。
 
-- [Midjourney](https://www.midjourney.com/home/)：业界领先的高质量AI图像生成工具，支持复杂指令，适合视觉内容创作（需注册，免费/付费）。  
-- [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)：开源且灵活的图像生成模型，适合定制化需求（开源，免费）。  
-- [Leonardo AI](https://app.leonardo.ai/)：专注于游戏资源和3D纹理生成，支持自定义模型训练和角色一致性，适合专业游戏开发者（需注册，免费/付费）。  
-- [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly)：基于Stable Diffusion的精确图像控制扩展，适合复杂场景和细节控制（开源，免费）。  
-- [Flux.1](https://flux1.ai/)：新锐AI图像生成工具，擅长人物细节和透视表现，适合角色设计（需付费）。  
+* [Adobe Substance 3D Sampler](https://www.adobe.com/products/substance3d-sampler.html)：**行业标准**。利用 AI（Image to Material）将单张照片瞬间转换为整套 PBR 材质（法线、粗糙度等），专业开发必备（需订阅）。
+* [Polycam](https://polycam.com/)：利用手机 LiDAR 或照片扫描生成 3D 资产和贴图，适合获取现实世界的纹理（需注册，免费/付费）。
+* [DreamTextures](https://github.com/carson-katri/dream-textures)：Blender 插件，在 Blender 内部直接通过文本提示生成无缝纹理（开源，免费）。
 
 ---
 
-## 代码生成助手 👩‍💻
+## 2D 图片与 UI 生成 🖼️🎨
 
-➡️ 用于**协助编写代码或调试问题**。
+➡️ 用于创建原画、图标、UI 元素及背景。
 
-- [StarCoder](https://huggingface.co/bigcode/starcoder)：开源代码生成模型，支持多语言编程辅助（需注册，免费）。  
-- [ChatGPT](https://chat.openai.com/)：强大的通用AI助手，支持代码生成、调试和优化建议，适合多场景开发（需注册，免费/付费）。  
-- [Copilot](https://github.com/features/copilot)：GitHub官方AI代码助手，集成IDE，提升编码效率（需注册，付费）。  
-- [通义灵码](https://developer.aliyun.com/topic/lingma/activities/202403)：阿里云基于通义大模型的国产AI编码助手，支持跨文件上下文感知，适配多IDE，提升代码质量和效率（需注册，免费）。  
-- [Rosebud AI](https://play.rosebud.ai/home)：结合代码和资产生成的综合平台，支持Unity/C#代码辅助（需注册，免费）。  
-
----
-
-## 动画捕捉 💃📹
-
-➡️ 用于**从普通视频生成3D动画**。
-
-- [Plask](https://motion.plask.ai/)：AI驱动的动画捕捉与编辑工具，支持多平台导出（需注册，免费/付费）。  
-- [RadicalMotion](https://radicalmotion.com/)：快速生成高质量3D动画，适合游戏角色动作捕捉（需注册，免费/付费）。  
+* [Midjourney v6](https://www.midjourney.com/)：**画质之王**。目前综合审美和细节表现最好的 AI 绘图工具，适合生成概念原画、宣传图（需付费）。
+* [Recraft V3](https://www.recraft.ai/)：**UI设计必备**。除了生成位图，还是目前最强的**矢量图 (SVG)** 生成工具，非常适合制作游戏 UI、图标和 Logo（需注册，免费/付费）。
+* [Leonardo AI](https://app.leonardo.ai/)：专注于游戏资源，提供特有的“透明背景”生成功能和 3D 纹理模式，支持训练私有模型（需注册，免费/付费）。
+* [Stable Diffusion (WebUI / ComfyUI)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：**最强控制力**。配合 **ControlNet** 使用，可以精确控制角色的姿势、画面构图，是生产管线中不可或缺的工具（开源，免费，需本地显卡）。
+* [Flux.1](https://flux1.ai/)：目前开源界最强的文生图模型，文字渲染能力极强，画面质感逼近 Midjourney（开源/付费）。
 
 ---
 
-## 语音生成 🗣️
+## 代码与开发助手 👩‍💻🚀
 
-➡️ 用于**为游戏角色生成语音对话**。
+➡️ 用于**编写代码、调试 Shader 或重构脚本**。
 
-- [Coqui Studio](https://coqui.ai/)：开源且支持情感化语音合成，适合多语言游戏语音（需注册，免费）。  
-- [Bark](https://github.com/suno-ai/bark)：开源多语言语音及背景音效生成，适合多样化声音需求（开源，免费）。  
-- [Replica Studios](https://replicastudios.com/)：专业AI语音演员，适合高质量游戏配音（需注册，免费）。  
-
----
-
-## 语音识别 💬
-
-➡️ 用于**玩家通过语音控制游戏**。
-
-- [OpenAI Whisper](https://huggingface.co/openai/whisper-base)：领先的自动语音识别和翻译模型，支持多语言（开源，免费）。  
-- [Facebook Wav2Vec2](https://huggingface.co/facebook/wav2vec2-large-xlsr-53)：多语言语音识别模型，适合实时语音交互（开源，免费）。  
+* [Cursor](https://www.cursor.com/)：**年度最佳工具**。基于 VS Code 修改的 AI 原生编辑器，能理解整个项目代码库（Context），支持“Tab”键自动补全多行代码，极大提升开发效率（免费/付费）。
+* [Claude 3.5 Sonnet](https://www.anthropic.com/)：**当前编程最强模型**。在逻辑推理和代码生成方面目前普遍被认为优于 GPT-4o，特别擅长编写复杂的算法和 Shader（需注册，免费/付费）。
+* [DeepSeek Coder](https://chat.deepseek.com/)：**国产之光**。极高性价比且能力顶尖的编程模型，擅长推理和代码生成，适合国内开发者使用（需注册，免费）。
+* [GitHub Copilot](https://github.com/features/copilot)：经典的 IDE 插件，无缝集成在 Visual Studio / VS Code 中，适合行内代码补全（需订阅）。
 
 ---
 
-## 对话模型
+## 动画与动作捕捉 💃🏃
 
-➡️ 用于**为 NPC 提供对话功能**。
+➡️ 用于**从视频生成骨骼动画**。
 
-- [ChatGPT](https://chat.openai.com/)：高级多轮对话模型，支持复杂NPC交互（需注册，免费/付费）。  
-- [HuggingChat 🤗](https://huggingface.co/chat/)：开源对话模型，适合自定义和本地部署（需注册，免费）。  
-- [NVIDIA ACE](https://www.nvidia.cn/geforce/news/nvidia-ace-autonomous-ai-companions-pubg-naraka-bladepoint/)：基于RTX加速的自主意识游戏角色AI，支持多模态感知和智能决策，推动游戏AI革命（需集成，前沿技术）。  
-
----
-
-## 故事创作模型
-
-➡️ 用于**生成游戏背景故事和文本**。
-
-- [MPT-7B-StoryWriter-65k+](https://huggingface.co/mosaicml/mpt-7b-storywriter)：开源长文本故事生成模型，适合复杂剧情创作（开源，免费）。  
-- [Claude 100k](https://www.anthropic.com/index/100k-context-windows)：支持超长上下文的高级文本生成工具，适合大规模故事叙述（需申请）。  
-- [GPT-4 32k](https://platform.openai.com/docs/models/overview)：支持超长上下文文本生成，适合深度剧情和复杂对话（需申请）。  
+* [Cascadeur](https://cascadeur.com/)：**物理动画神器**。AI 辅助的关键帧动画软件，能自动修复角色的物理重心和动作流畅度，大幅降低手K动画门槛（免费/付费）。
+* [Move.ai](https://www.move.ai/)：**高精度捕捉**。仅需几部 iPhone 即可实现接近专业动捕棚效果的 AI 动捕工具（需付费）。
+* [Rokoko Vision](https://www.rokoko.com/products/vision)：通过单摄或双摄视频生成 3D 动画，与其硬件生态结合紧密（免费试用/付费）。
+* [Plask](https://motion.plask.ai/)：基于浏览器的动作捕捉工具，上传视频即可提取动作并重定向到模型上（需注册，免费/付费）。
 
 ---
 
-## 游戏设计 🎮
+## 语音生成 (TTS) 🗣️🎙️
 
-➡️ 用于**生成游戏机制、角色设定、物品设计等**。
+➡️ 用于**生成高质量的角色配音**。
 
-- [Ludo.ai](https://ludo.ai/)：结合文本和图片生成游戏设计方案，支持玩法模拟和数值平衡测试（需注册，免费/付费）。  
-- [Rosebud AI](https://play.rosebud.ai/home)：从概念到完整游戏开发的综合AI平台，支持角色、剧情和代码生成（需注册，免费）。  
+* [可疑链接已删除]：**行业标杆**。目前自然度、情感表现力最强的 AI 语音生成工具，支持极速声音克隆（需注册，免费/付费）。
+* [Replica Studios](https://replicastudios.com/)：专注于游戏配音，提供大量经过授权的 AI 语音演员库，支持情绪调节（需注册，免费）。
+* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)：**最强开源**。只需少量音频样本即可训练出高质量的声音克隆模型，适合本地部署和二次元语音（开源，免费）。
+
+---
+
+## 智能 NPC 与运行时 AI 🤖💬
+
+➡️ 用于**在游戏中集成真正的智能对话 NPC**。
+
+* [Inworld AI](https://inworld.ai/)：**NPC 领域首选**。专为游戏设计的 AI 引擎，NPC 拥有性格、记忆、目标，并能控制表情和动作，完美支持 Unity/Unreal（需注册，免费/付费）。
+* [NVIDIA ACE](https://developer.nvidia.com/ace)：英伟达推出的数字人微服务，结合了语音识别、大模型对话和面部动画（Audio2Face），适合追求极致技术的大厂（企业级）。
+* [Convai](https://www.convai.com/)：赋予 NPC 实时语音交流能力，支持环境感知和行动执行（需注册，免费/付费）。
+
+---
+
+## 故事与文案创作 📜🖋️
+
+➡️ 用于**生成世界观、剧情分支和任务文本**。
+
+* [Claude 3 Opus / 3.5 Sonnet](https://www.anthropic.com/)：拥有超大上下文窗口（200k token），非常适合处理长篇剧本、游戏设定集和复杂的剧情逻辑（需注册）。
+* [Sudowrite](https://www.sudowrite.com/)：专为小说和创意写作设计的 AI 工具，擅长描写细腻的场景和感官细节（需付费）。
+* [NovelAI](https://novelai.net/)：专注于故事续写和二次元风格的文本生成，对于特定风格的游戏剧情非常有帮助（需订阅）。
+
+---
+
+## 游戏设计与原型 🎮📐
+
+* [Ludo.ai](https://ludo.ai/)：生成游戏概念、机制创意，并可以通过 AI 搜索类似的市场竞品进行分析（需注册）。
+* [Rosebud AI](https://play.rosebud.ai/)：**文字生成游戏**。允许用户通过描述直接生成基于浏览器的完整小游戏（代码+资产），适合快速验证玩法原型（需注册，免费）。
