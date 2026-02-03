@@ -27,7 +27,7 @@
 
 ➡️ 用于创建原画、图标、UI 元素及背景。
 
-* [Midjourney v6](https://www.midjourney.com/)：**画质之王**。目前综合审美和细节表现最好的 AI 绘图工具，适合生成概念原画、宣传图（需付费）。
+* [Midjourney v7 / Niji 7](https://www.midjourney.com/)：**画质之王**。v7 版本带来了更强的摄影写实感和细节控制，Niji 7 则是二次元风格的顶点，适合生成概念原画、宣传图（需付费）。
 * [Recraft V3](https://www.recraft.ai/)：**UI设计必备**。除了生成位图，还是目前最强的**矢量图 (SVG)** 生成工具，非常适合制作游戏 UI、图标和 Logo（需注册，免费/付费）。
 * [Leonardo AI](https://app.leonardo.ai/)：专注于游戏资源，提供特有的“透明背景”生成功能和 3D 纹理模式，支持训练私有模型（需注册，免费/付费）。
 * [Stable Diffusion (WebUI / ComfyUI)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：**最强控制力**。配合 **ControlNet** 使用，可以精确控制角色的姿势、画面构图，是生产管线中不可或缺的工具（开源，免费，需本地显卡）。
@@ -40,8 +40,8 @@
 ➡️ 用于**编写代码、调试 Shader 或重构脚本**。
 
 * [Cursor](https://www.cursor.com/)：**年度最佳工具**。基于 VS Code 修改的 AI 原生编辑器，能理解整个项目代码库（Context），支持“Tab”键自动补全多行代码，极大提升开发效率（免费/付费）。
-* [Claude 3.5 Sonnet](https://www.anthropic.com/)：**当前编程最强模型**。在逻辑推理和代码生成方面目前普遍被认为优于 GPT-4o，特别擅长编写复杂的算法和 Shader（需注册，免费/付费）。
-* [DeepSeek Coder](https://chat.deepseek.com/)：**国产之光**。极高性价比且能力顶尖的编程模型，擅长推理和代码生成，适合国内开发者使用（需注册，免费）。
+* [Claude 3.5 Sonnet / 5 (Fennec)](https://www.anthropic.com/)：**当前编程最强模型**。Sonnet 5 在复杂逻辑推理和代码架构设计上表现卓越，特别擅长编写复杂的算法和 Shader（需注册，免费/付费）。
+* [DeepSeek-V3 / R1](https://chat.deepseek.com/)：**国产之光**。V3 是目前最强的开源模型之一，R1 则在推理能力上比肩顶尖闭源模型，极高性价比，适合国内开发者使用（需注册，免费）。
 * [GitHub Copilot](https://github.com/features/copilot)：经典的 IDE 插件，无缝集成在 Visual Studio / VS Code 中，适合行内代码补全（需订阅）。
 
 ---
@@ -57,13 +57,33 @@
 
 ---
 
+## 视频生成 🎥🎬
+
+➡️ 用于**生成过场动画、PV 素材或动态背景**。
+
+* [Kling AI (可灵)](https://klingai.kuaishou.com/)：**生成一致性极高**。快手推出的视频生成模型，在动作连贯性和物理规律遵循上表现出色（需注册，免费/付费）。
+* [Runway Gen-3 Alpha](https://runwayml.com/)：**可控性强**。提供丰富的时间轴控制和运镜工具，适合专业视频创作者（需注册，付费）。
+* [Hailuo AI (海螺/MiniMax)](https://hailuoai.com/)：**角色保持稳定**。在人物一致性和画面美感上有很高水准，适合制作以角色为中心的短片（需注册，免费/付费）。
+
+---
+
 ## 语音生成 (TTS) 🗣️🎙️
 
 ➡️ 用于**生成高质量的角色配音**。
 
-* [可疑链接已删除]：**行业标杆**。目前自然度、情感表现力最强的 AI 语音生成工具，支持极速声音克隆（需注册，免费/付费）。
+* [ElevenLabs](https://elevenlabs.io/)：**行业标杆**。目前自然度、情感表现力最强的 AI 语音生成工具，支持极速声音克隆和音效生成（需注册，免费/付费）。
 * [Replica Studios](https://replicastudios.com/)：专注于游戏配音，提供大量经过授权的 AI 语音演员库，支持情绪调节（需注册，免费）。
 * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)：**最强开源**。只需少量音频样本即可训练出高质量的声音克隆模型，适合本地部署和二次元语音（开源，免费）。
+
+---
+
+## 音乐与音效生成 🎵🔊
+
+➡️ 用于**生成背景音乐 (BGM) 和游戏音效 (SFX)**。
+
+* [Suno v4](https://suno.com/)：**神曲制造机**。能生成广播级质量的完整歌曲，v4 版本在乐器分离和结构编排上达到了专业水准（需注册，免费/付费）。
+* [Udio](https://www.udio.com/)：**高保真音乐**。以极高的音频质量和对音乐风格的精细控制著称，适合生成复杂的配乐（需注册，免费/付费）。
+* [ElevenLabs](https://elevenlabs.io/)：除了语音，其 **Sound Effects** 功能可以通过文本描述生成逼真的环境音效（如脚步声、爆炸声），非常适合独立开发者（需注册，免费/付费）。
 
 ---
 
