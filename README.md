@@ -10,6 +10,7 @@
 * [Scenario.com](https://www.scenario.com/)：保持推荐。支持训练自定义风格（LoRA），批量生成风格统一的 2D/3D 游戏素材，是保持游戏美术风格一致性的利器（需注册，免费/付费）。
 * [PrometheanAI](https://www.prometheanai.com/)：通过自然语言描述填充和构建大型 3D 虚拟环境，能够与 Unreal/Unity 深度集成（需注册，免费/付费）。
 * [Ready Player Me](https://readyplayer.me/)：快速生成并集成跨平台游戏角色（Avatar），支持导入 Unity/Unreal 等多种引擎（需注册，免费）。
+* [Seele AI](https://seeles.ai/)：chat to create 3D&2D assets, no coding, enable export（需注册，免费/付费）。
 
 ---
 
@@ -111,3 +112,4 @@
 
 * [Ludo.ai](https://ludo.ai/)：生成游戏概念、机制创意，并可以通过 AI 搜索类似的市场竞品进行分析（需注册）。
 * [Rosebud AI](https://play.rosebud.ai/)：**文字生成游戏**。允许用户通过描述直接生成基于浏览器的完整小游戏（代码+资产），适合快速验证玩法原型（需注册，免费）。
+* [Seele AI](https://seeles.ai/)：chat to create 3D&2D games, no coding, earn from games（需注册，免费）。
