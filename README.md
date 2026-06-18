@@ -32,6 +32,7 @@
 * [Leonardo AI](https://app.leonardo.ai/)：专注于游戏资源，提供特有的“透明背景”生成功能和 3D 纹理模式，支持训练私有模型（需注册，免费/付费）。
 * [Stable Diffusion (WebUI / ComfyUI)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：**最强控制力**。配合 **ControlNet** 使用，可以精确控制角色的姿势、画面构图，是生产管线中不可或缺的工具（开源，免费，需本地显卡）。
 * [Flux.1](https://flux1.ai/)：目前开源界最强的文生图模型，文字渲染能力极强，画面质感逼近 Midjourney（开源/付费）。
+* [Roblox GUI Maker](https://robloxguimaker.dev/)：面向 Roblox Studio 创作者的 AI GUI 规划工具，可根据提示生成 ScreenGui 布局思路、UI 层级、JSON 蓝图和 Lua starter code（免费）。
 
 ---
 
