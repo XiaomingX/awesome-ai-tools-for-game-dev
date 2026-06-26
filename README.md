@@ -92,6 +92,7 @@
 ➡️ 用于**在游戏中集成真正的智能对话 NPC**。
 
 * [Inworld AI](https://inworld.ai/)：**NPC 领域首选**。专为游戏设计的 AI 引擎，NPC 拥有性格、记忆、目标，并能控制表情和动作，完美支持 Unity/Unreal（需注册，免费/付费）。
+* [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 * [NVIDIA ACE](https://developer.nvidia.com/ace)：英伟达推出的数字人微服务，结合了语音识别、大模型对话和面部动画（Audio2Face），适合追求极致技术的大厂（企业级）。
 * [Convai](https://www.convai.com/)：赋予 NPC 实时语音交流能力，支持环境感知和行动执行（需注册，免费/付费）。
 
