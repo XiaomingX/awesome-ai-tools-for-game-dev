@@ -111,3 +111,7 @@
 
 * [Ludo.ai](https://ludo.ai/)：生成游戏概念、机制创意，并可以通过 AI 搜索类似的市场竞品进行分析（需注册）。
 * [Rosebud AI](https://play.rosebud.ai/)：**文字生成游戏**。允许用户通过描述直接生成基于浏览器的完整小游戏（代码+资产），适合快速验证玩法原型（需注册，免费）。
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek title Meccha Chameleon. Unofficial, not affiliated with the developer.
