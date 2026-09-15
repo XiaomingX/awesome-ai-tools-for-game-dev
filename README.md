@@ -111,3 +111,4 @@
 
 * [Ludo.ai](https://ludo.ai/)：生成游戏概念、机制创意，并可以通过 AI 搜索类似的市场竞品进行分析（需注册）。
 * [Rosebud AI](https://play.rosebud.ai/)：**文字生成游戏**。允许用户通过描述直接生成基于浏览器的完整小游戏（代码+资产），适合快速验证玩法原型（需注册，免费）。
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
