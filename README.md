@@ -61,6 +61,7 @@
 
 ➡️ 用于**生成过场动画、PV 素材或动态背景**。
 
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)：MIT 开源、本地优先的 CLI/MCP 视频工具包，让编程 Agent 通过 plan.json 编排、剪辑和生成视频；可选生成服务需要自备密钥。
 * [Kling AI (可灵)](https://klingai.kuaishou.com/)：**生成一致性极高**。快手推出的视频生成模型，在动作连贯性和物理规律遵循上表现出色（需注册，免费/付费）。
 * [Runway Gen-3 Alpha](https://runwayml.com/)：**可控性强**。提供丰富的时间轴控制和运镜工具，适合专业视频创作者（需注册，付费）。
 * [Hailuo AI (海螺/MiniMax)](https://hailuoai.com/)：**角色保持稳定**。在人物一致性和画面美感上有很高水准，适合制作以角色为中心的短片（需注册，免费/付费）。
