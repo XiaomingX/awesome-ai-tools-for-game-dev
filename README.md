@@ -104,6 +104,7 @@
 * [Claude 3 Opus / 3.5 Sonnet](https://www.anthropic.com/)：拥有超大上下文窗口（200k token），非常适合处理长篇剧本、游戏设定集和复杂的剧情逻辑（需注册）。
 * [Sudowrite](https://www.sudowrite.com/)：专为小说和创意写作设计的 AI 工具，擅长描写细腻的场景和感官细节（需付费）。
 * [NovelAI](https://novelai.net/)：专注于故事续写和二次元风格的文本生成，对于特定风格的游戏剧情非常有帮助（需订阅）。
+* [Auferet](https://auferet.com/)：**AI 游戏主持人**。为单人文字冒险和桌面 RPG 提供带长期记忆的 AI 主持人，可上传自定义世界设定，支持 5e 与 Pathfinder 2e（需注册，免费/付费）。
 
 ---
 
