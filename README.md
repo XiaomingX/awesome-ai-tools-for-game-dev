@@ -104,6 +104,7 @@
 * [Claude 3 Opus / 3.5 Sonnet](https://www.anthropic.com/)：拥有超大上下文窗口（200k token），非常适合处理长篇剧本、游戏设定集和复杂的剧情逻辑（需注册）。
 * [Sudowrite](https://www.sudowrite.com/)：专为小说和创意写作设计的 AI 工具，擅长描写细腻的场景和感官细节（需付费）。
 * [NovelAI](https://novelai.net/)：专注于故事续写和二次元风格的文本生成，对于特定风格的游戏剧情非常有帮助（需订阅）。
+* [Breatic](https://github.com/orime-org/breatic)：源码公开协作创作工具，将简报、脚本、参考素材和 AI 画布放在同一项目中，支持团队实时协作与人工审阅 Agent 改写建议（采用 Elastic-2.0，模型及基础设施另行配置）。
 
 ---
 
