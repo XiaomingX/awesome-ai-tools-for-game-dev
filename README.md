@@ -54,6 +54,7 @@
 * [Move.ai](https://www.move.ai/)：**高精度捕捉**。仅需几部 iPhone 即可实现接近专业动捕棚效果的 AI 动捕工具（需付费）。
 * [Rokoko Vision](https://www.rokoko.com/products/vision)：通过单摄或双摄视频生成 3D 动画，与其硬件生态结合紧密（免费试用/付费）。
 * [Plask](https://motion.plask.ai/)：基于浏览器的动作捕捉工具，上传视频即可提取动作并重定向到模型上（需注册，免费/付费）。
+* [Animate4Me](https://animate4me.com/)：通过文本提示或一张图片生成可直接使用的 Spine 4.2 2D 游戏动画（骨骼、图集和贴图），并可在浏览器中预览（需注册，付费，$19/月起）。
 
 ---
 
